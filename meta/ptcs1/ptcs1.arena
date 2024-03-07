@@ -1,5 +1,6 @@
 {
-  map       "ptcs1"
-  longname  "Professional Tactical Combat Simulator 1"
-  type      "tremulous"
+	map "ptcs1"
+	longname "Professional Tactical Combat Simulator 1"
+	author "Gucior"
+	type "tremulous"
 }
