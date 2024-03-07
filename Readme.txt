@@ -10,3 +10,6 @@ Date:     October 8 2020 / Fixed bugs January 21 2022
   
 Map created by Gucior.
 
+---- LICENSE ---------------------------------------------------
+
+Map licensed under CC-BY 4.0.
