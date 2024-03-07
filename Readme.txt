@@ -7,7 +7,7 @@ Date:     October 8 2020 / Fixed bugs January 21 2022
  This is a gameplay version.
 
 ---- CREDITS ---------------------------------------------------
-  
+
 Map created by Gucior.
 
 ---- LICENSE ---------------------------------------------------
